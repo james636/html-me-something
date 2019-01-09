@@ -6,6 +6,6 @@ Either puruse the files, download/clone to your computer, and open index.html in
 
 or
 
-Use GitHub & BitBucket HTML Preview functionality and click the repo website link above or follow its longer version:
+Use GitHub & BitBucket HTML Preview functionality and click the repo website link: https://goo.gl/iGGfMV above or follow its longer version:
 
 http://htmlpreview.github.io/?https://raw.githubusercontent.com/james636/html-me-something/master/index.html
